@@ -10,4 +10,4 @@ summ price
 
 today is Friday, and tomorrow is Monday
 
-LINE SIX is good
+LINE SIX is good. Today is Friday.
